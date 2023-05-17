@@ -1,0 +1,14 @@
+.header__links {
+    display: flex;
+    align-items: flex-end;
+    column-gap: 18px;
+    margin: 20px 0 6px 0;
+    list-style: none;
+    padding: 0;
+  }
+  @media screen and (max-width: 400px) {
+    .header__links {
+      margin: 14px 0px 8px 0px;
+    }
+  }
+  
