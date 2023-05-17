@@ -3,7 +3,7 @@
     line-height: 16px;
     font-weight: 400;
     text-align: right;
-    margin-top: 2px;
+    margin-top: 0px;
   }
   @media screen and (max-width: 555px) {
     .footer__copyright {
